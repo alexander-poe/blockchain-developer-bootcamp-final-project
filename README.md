@@ -10,9 +10,12 @@ THe Problem: Preforming artist can encounter problems tracking down payment at t
 🎹 /contracts/migrations: Migration files for deploying contracts in /contracts/contracts directory.
 🎤 /contracts/test: JS file that contrains 6 unit tests for the smart contracts.
 
+
+### Project Walkthrough
+https://youtu.be/gSkA3queFpE
 # QUICK START
 
-### Option 1: Use deployed version linktowebiste.com
+### Option 1: Use deployed version [here](https://alexpoe22.github.io/blockchain-developer-bootcamp-final-project/)
     - Deployed version has onlyClient modifiers removed so state updates can be demonstrated without client address being specified.
 ### Option 2: Running Locally with Ganache
     Prerequisites: Node, Git, Truffle
